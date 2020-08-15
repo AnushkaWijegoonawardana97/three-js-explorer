@@ -21,7 +21,7 @@
 ## Cloning this repository
 
 ```sh
-git clone --depth=1 https://github.com/AnushkaWijegoonawardana97/Materialize-CSS.git
+git clone --depth=1 https://github.com/AnushkaWijegoonawardana97/three-js-explorer.git
 ```
 
 ---
