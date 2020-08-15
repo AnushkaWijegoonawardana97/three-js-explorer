@@ -1,0 +1,16 @@
+#homepage {
+	#weblink {
+		left: unset;
+		right: 1rem;
+		bottom: 1rem;
+	}
+
+	#sociallink {
+		left: 1rem;
+		bottom: 1rem;
+
+		.btn-social {
+			border-radius: 50%;
+		}
+	}
+}

@@ -1,11 +1,10 @@
-// General Style Resettings
-body,
-html {
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-}
+@import "homepage";
+@import "project";
 
-canvas {
-	display: block;
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+// General Style Resettings
+html,
+body {
+	font-family: "Roboto Mono", monospace;
 }
